@@ -6,7 +6,12 @@ Objectives:<br>
 * To neglect irrelevant information and focus on more discriminant regions of the image by emphasizing relevant feature association
 <br>
 Datasets:CHAOS Dataset<br>
-Methodology:<br>
+Methodology:
 1. Multiple Scales attention maps
-2. Positional Attention Module(PAM)
-3. Channel Attention Model (CAM)
+    1. Positional Attention Module(PAM)
+    2. Channel Attention Model (CAM)
+    ![img2](/images/model_attention.jpg)
+2. UNet Model for comparison
+<br>
+Results:<br>
+![imag](/images/result.png)
